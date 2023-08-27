@@ -1,2 +1,2 @@
 # code1.ml
-code of machone learning
+code of machine learning
